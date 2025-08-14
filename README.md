@@ -4,8 +4,11 @@ End-to-end Telecom Customer Churn Analysis project using Python, SQL, and Power 
 Tools & Technologies :
 
 -Python (Pandas, Matplotlib): Data cleaning, transforming, and exploratory data analysis.
+
 -Power BI: Creating interactive dashboards with filters, key performance indicators, and advanced DAX measures.
+
 -SQL: Querying and aggregating data.
+
 -Excel: Validating data and performing quick analysis checks.
 
 Key Features :
