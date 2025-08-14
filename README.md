@@ -31,7 +31,10 @@ Business Impact
 
 The project provided insights based on data for retention strategies. It enabled leadership to test churn reduction scenarios in real-time. It also recommended targeted actions like loyalty discounts, better onboarding, improving service quality, and incentives for payment methods.
 
+DOWNLOAD PYTHON DATA (https://tinyurl.com/soumya-churn-Python)
 DOWNLOAD SQL DATA(https://tinyurl.com/soumya-churn-SQL)
+DOWNLOAD POWER BI DATA (https://tinyurl.com/soumya-churn-powerbi)
+
 
 
 
